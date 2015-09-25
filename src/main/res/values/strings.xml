@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ColorMemo</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="button_add">Ajouter une tâche</string>
+    <string name="title_activity_addtask">Ajouter une tâche</string>
+    <string name="sort_tasks">Trier les tâches</string>
+    <string name="sort_tasks_title">Trier les tâches par</string>
+    <string name="hint_taskdescription">Description</string>
+    <string name="button_addtask">Enregistrer</string>
+    <string name="title_activity_add_task">Nouvelle tâche</string>
+    <string name="hint_title">Titre</string>
+    <string name="change_view">Changer la vue</string>
+    <string name="new_task">Nouvelle tâche</string>
+    <string name="new_task_toast_message">Tâche enregistrée</string>
+    <string name="empty_task_toast_message">Veuillez décrire la tâche à effectuer</string>
+    <string name="view_style_title">Style de vue</string>
+    <string-array name="view_style_list">
+        <item>Liste</item>
+        <item>Liste détaillée</item>
+        <item>Grille</item>
+    </string-array>
+    <string-array name="sort_tasks_list">
+        <item>Date de création</item>
+        <item>Couleur</item>
+    </string-array>
+    <string-array name="priorities">
+        <item>Faible</item>
+        <item>Normale</item>
+        <item>Haute</item>
+        <item>Urgente</item>
+    </string-array>
+    <string-array name="spinner_priority_colors">
+        <item>#99FF66</item>
+        <item>#FFEE00</item>
+        <item>#FF7700</item>
+        <item>#FF0000</item>
+
+    </string-array>
+    <string name="message_tache_effectuee">Avez vous terminé cette tâche?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>

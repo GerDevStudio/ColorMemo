@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="90dp"
+    android:layout_height="40dp">
+
+    <ImageView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        tools:background="#EEE"
+        android:id="@+id/spinner_image"
+        android:background="@drawable/border_for_task_view"
+        android:padding="1dp">
+    </ImageView>
+
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.Medium"
+        android:textColor="@color/task_title"
+        tools:text="text"
+        android:layout_marginLeft="5dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/spinner_text"/>
+
+</RelativeLayout>

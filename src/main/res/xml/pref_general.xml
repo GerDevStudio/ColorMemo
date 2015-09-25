@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- NOTE: Permet de choisir l'urgence de la tâche par défaut, lors de la création d'une nouvelle tâche. -->
+    <ListPreference
+        android:key="priority"
+        android:title="@string/pref_priority_title"
+        android:defaultValue="2"
+        android:entries="@array/priorities"
+        android:entryValues="@array/pref_priority_list_values"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null" />
+</PreferenceScreen>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#607D8B</color>
+    <color name="primary_dark">#455A64</color>
+    <color name="primary_light">#CFD8DC</color>
+    <color name="accent">#448AFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="window_background">#FFFFFF</color>
+    <color name="very_high_priority_dark">#D50000</color>
+    <color name="very_high_priority_light">#FFEBEE</color>
+    <color name="high_priority_dark">#FF6D00</color>
+    <color name="high_priority_light">#FFF3E0</color>
+    <color name="medium_priority_dark">#FFD600</color>
+    <color name="medium_priority_light">#FFF9C4</color>
+    <color name="low_priority_dark">#64DD17</color>
+    <color name="low_priority_light">#F1F8E9</color>
+    <color name="task_title">#222222</color>
+    <color name="task_description">#777777</color>
+</resources>
